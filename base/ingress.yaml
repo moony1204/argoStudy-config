@@ -16,7 +16,7 @@ spec:
         paths:
           - backend:
               service:
-                name: argoStudy
+                name: argostudy
                 port:
                   number: 80
             path: /

@@ -6,5 +6,5 @@ resources:
 - ../../base
 
 images:
-- name: moony1204/argoStudy
+- name: moony1204/argostudy
   newTag: latest
