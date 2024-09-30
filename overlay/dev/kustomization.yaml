@@ -7,4 +7,4 @@ resources:
 
 images:
 - name: moony1204/argostudy
-  newTag: cbf4efe83961936b00c339a99b7190dcc9315a35
+  newTag: 40b1e9e91721a35cd5c9f159fcb2b2304c66c37b
